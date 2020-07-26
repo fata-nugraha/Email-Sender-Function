@@ -1,2 +1,2 @@
-# sendemail
+# Send Email
 Simple code to send an email with Python and Cloud Functions, triggered by Cloud Pub/Sub
